@@ -1,0 +1,17 @@
+Beta testers
+scalability (cloud providers)
+load balancers
+login system (would store user, passwords, points)
+security
+web/domain
+ASP.NET Core Web API app
+
+User 
+    - Run CTF files
+    - learning 
+    - entertainment
+
+In C#; angular (node.js)
+
+custom views for instructors/users/admin
+multiple user accounts
