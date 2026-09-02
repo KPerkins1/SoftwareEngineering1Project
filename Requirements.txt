@@ -1,26 +1,46 @@
 User 
     - Run CTF files
+        (To be able to open and run our CTF files)
     - learning 
+        (to teach students)
     - entertainment
+        (To make it more interesting for students to learn)
+
 Instructors/Admin
     - instructors/admin can add challenges
+        (so that instructors/admin can choose what they want their students to work through)
     - custom views for instructors/users/admin
+        (so instructors/admin can have/see different things than students/users)
+
 For Users
     - random flags
+        (less insentive to cheat to find the flags)
     - first blood bonus (first one to get the flag gets bonus points)
+        (awards students who get the flags first)
     - multiple user accounts
+        (so there are ways to log points/students in specific courses)
     - User account management
+        (so users/students can customize their accounts)
 Competition Events 
     - system wide events
+        (brings together people to work on tasks together)
     - in person events
+        (brings more students together in person to work together)
     - leaderboards for each events
+        (shows which students are faster/can get flags)
     - event badges
+        (rewards users/students for attending events)
     - badges for ranks
+        (rewards users/students for attending events)
 Security
     - confidentail/secure API
+        (so our app can't be hacked)
     - security
+        (so our app can't be hacked)
     - Authentication (OAUTH)
+        (so people aren't accessing things they shouldn't)
     - input validation
+        (so our app can't be hacked/use prompt injection)
 Development:
     - CICD Pipeline
     - SCRUM
