@@ -2,6 +2,8 @@ Beta testers
 scalability (cloud providers)
 load balancers
 login system (would store user, passwords, points)
+two separate storage areas
+backup storage
 security
 web/domain
 ASP.NET Core Web API app
