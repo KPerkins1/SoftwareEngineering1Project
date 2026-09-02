@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaptureTheRat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0185b1307b7025a468f29c670427913c53a61a5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a85a9d7d7bd5798cc12440f10b5993c2f4d985e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaptureTheRat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaptureTheRat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
