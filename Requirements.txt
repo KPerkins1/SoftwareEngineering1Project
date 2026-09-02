@@ -1,19 +1,43 @@
-Beta testers
-scalability (cloud providers)
-load balancers
-login system (would store user, passwords, points)
-two separate storage areas
-backup storage
-security
-web/domain
-ASP.NET Core Web API app
-
 User 
     - Run CTF files
     - learning 
     - entertainment
+Instructors/Admin
+    - instructors/admin can add challenges
+    - custom views for instructors/users/admin
+For Users
+    - random flags
+    - first blood bonus (first one to get the flag gets bonus points)
+    - multiple user accounts
+    - User account management
+Competition Events 
+    - system wide events
+    - in person events
+    - leaderboards for each events
+    - event badges
+    - badges for ranks
+Security
+    - confidentail/secure API
+    - security
+    - Authentication (OAUTH)
+    - input validation
+Development:
+    - CICD Pipeline
+    - SCRUM
 
-In C#; angular (node.js)
+    - C# 
+    - Angular (node.js)
+    - web/domain
+    - ASP.NET Core Web API app
 
-custom views for instructors/users/admin
-multiple user accounts
+    - two separate storage areas
+    - backup storage
+
+    - Beta testers
+    - scalability (cloud providers)
+    - load balancers
+    - login system (would store user, passwords, points)
+    - rate limiting
+    - account deletion
+
+    - accessibility compliance
