@@ -43,21 +43,37 @@ Security
         (so our app can't be hacked/use prompt injection)
 Development:
     - CICD Pipeline
+        (Keeps team in line with how to go about project development)
     - SCRUM
+        (Keeps team in line with how to go about project development)
+
 
     - C# 
+        (backend of project)
     - Angular (node.js)
+        (frontend of project)
     - web/domain
+        (how we're planning on hosting our project)
     - ASP.NET Core Web API app
+        (Where the project build actually is)
 
     - two separate storage areas
+        (so that we can store our data and our backups separately)
     - backup storage
+        (so that we can store our backups separately)
 
     - Beta testers
+        (so our program can get tested by people outside of our team)
     - scalability (cloud providers)
+        (we want to be able to have many people use it)
     - load balancers
+        (we want to be able to have many people use it)
     - login system (would store user, passwords, points)
+        (helps us keep track of users and their points)
     - rate limiting
+        (so that our app can't be hacked)
     - account deletion
+        (so that users can/can't delete their accounts)
 
     - accessibility compliance
+        (ensures that our app is accessible to all users)
